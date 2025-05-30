@@ -1,4 +1,4 @@
-## 🤖 Play Wright Test
+## 🤖 PlayWright Test
 > [Definition of Done](https://pdffiller.atlassian.net/wiki/spaces/TEAM/pages/2728034461/Definition+of+Done+SNFiller)
 
 
