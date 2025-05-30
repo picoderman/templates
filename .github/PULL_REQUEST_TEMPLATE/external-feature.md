@@ -15,6 +15,8 @@ __Team__: ?
 <!-- 🔻 -->
 - [ ] I want this PR to the next release
 
+---
+
 <!--
   More technical details of the feature and how it was implemented.
   Don't duplicate business details from JIRA ticket.
